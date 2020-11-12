@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MZGCategoryKit_Tests' do
+  pod 'MZGCategoryKit', :path => '../'
+  
+  
+end
