@@ -1,0 +1,6 @@
+framework module MZGCategoryKit {
+  umbrella header "MZGCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MZGCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of MZGCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mzg/MZGCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mzg": "912235156@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/mzg/MZGCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MZGCategoryKit/Classes/**/*"
+}
